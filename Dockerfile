@@ -12,6 +12,6 @@ RUN npm Install
 
 EXPOSE 8000
 # Define the entry point for the container 
-CMD["npm", "start"]
+CMD ["npm", "start"]
 
 
